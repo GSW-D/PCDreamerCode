@@ -1,0 +1,17 @@
+easydict==1.10
+einops==0.7.0
+h5py==3.9.0
+lpips==0.1.4
+matplotlib==3.7.2
+numpy==1.24.4
+open3d==0.17.0
+opencv_python==4.8.0.76
+pillow==10.0.0
+pyyaml==6.0.1
+tensorboardX==2.6.2.2
+timm==0.9.7
+torch==2.0.1+cu118
+torchvision==0.15.2+cu118
+-f https://download.pytorch.org/whl/torch_stable.html
+tqdm==4.66.1
+transforms3d==0.4.1
